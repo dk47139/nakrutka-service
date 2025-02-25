@@ -1,9 +1,49 @@
-Uri: https://counter.yadro.ru/logo?11.6
-File Name: C:\Downloaded Web Sites\nakrutka-service.ru\logo
-Content Type: image/gif
-
 Uri: https://nakrutka-service.ru/
 File Name: C:\Downloaded Web Sites\nakrutka-service.ru\index.htm
+Content Type: text/html
+
+Uri: https://nakrutka-service.ru/nasha-komanda-redaktsiya
+File Name: C:\Downloaded Web Sites\nakrutka-service.ru\nasha-komanda-redaktsiya.html
+Content Type: text/html
+
+Uri: https://nakrutka-service.ru/politika-ispolzovaniya-cookies
+File Name: C:\Downloaded Web Sites\nakrutka-service.ru\politika-ispolzovaniya-cookies.html
+Content Type: text/html
+
+Uri: https://nakrutka-service.ru/politika-konfidentsialnosti
+File Name: C:\Downloaded Web Sites\nakrutka-service.ru\politika-konfidentsialnosti.html
+Content Type: text/html
+
+Uri: https://nakrutka-service.ru/polzovatelskoe-soglashenie
+File Name: C:\Downloaded Web Sites\nakrutka-service.ru\polzovatelskoe-soglashenie.html
+Content Type: text/html
+
+Uri: https://nakrutka-service.ru/sitemap
+File Name: C:\Downloaded Web Sites\nakrutka-service.ru\sitemap.html
+Content Type: text/html
+
+Uri: https://nakrutka-service.ru/sitemap/feed
+File Name: C:\Downloaded Web Sites\nakrutka-service.ru\sitemap\feed
+Content Type: application/rss+xml
+
+Uri: https://nakrutka-service.ru/soglasie-na-obrabotku-personalnyh-dannyh
+File Name: C:\Downloaded Web Sites\nakrutka-service.ru\soglasie-na-obrabotku-personalnyh-dannyh.html
+Content Type: text/html
+
+Uri: https://nakrutka-service.ru/telegram
+File Name: C:\Downloaded Web Sites\nakrutka-service.ru\telegram.html
+Content Type: text/html
+
+Uri: https://nakrutka-service.ru/telegram/bot
+File Name: C:\Downloaded Web Sites\nakrutka-service.ru\telegram\bot.html
+Content Type: text/html
+
+Uri: https://nakrutka-service.ru/telegram/comments
+File Name: C:\Downloaded Web Sites\nakrutka-service.ru\telegram\comments.html
+Content Type: text/html
+
+Uri: https://nakrutka-service.ru/telegram/golosa
+File Name: C:\Downloaded Web Sites\nakrutka-service.ru\telegram\golosa.html
 Content Type: text/html
 
 Uri: https://nakrutka-service.ru/telegram/likes
@@ -81,6 +121,10 @@ Content Type: image/jpeg
 Uri: https://nakrutka-service.ru/wp-content/themes/reboot/assets/images/subscribe-bg.png
 File Name: C:\Downloaded Web Sites\nakrutka-service.ru\wp-content\themes\reboot\assets\images\subscribe-bg.png
 Content Type: image/png
+
+Uri: https://nakrutka-service.ru/wp-content/uploads/2025/02/bg5.jpg
+File Name: C:\Downloaded Web Sites\nakrutka-service.ru\wp-content\uploads\2025\02\bg5.jpg
+Content Type: image/jpeg
 
 Uri: https://nakrutka-service.ru/wp-content/uploads/2025/02/logo3-100x100.png
 File Name: C:\Downloaded Web Sites\nakrutka-service.ru\wp-content\uploads\2025\02\logo3-100x100.png
@@ -854,6 +898,14 @@ Uri: https://nakrutka-service.ru/wp-content/uploads/2025/02/Pasted-43.png
 File Name: C:\Downloaded Web Sites\nakrutka-service.ru\wp-content\uploads\2025\02\Pasted-43.png
 Content Type: image/png
 
+Uri: https://nakrutka-service.ru/wp-content/uploads/2025/02/Pasted-44.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.ru\wp-content\uploads\2025\02\Pasted-44.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.ru/wp-content/uploads/2025/02/Pasted-45.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.ru\wp-content\uploads\2025\02\Pasted-45.png
+Content Type: image/png
+
 Uri: https://nakrutka-service.ru/wp-content/uploads/2025/02/Pasted-5-300x185.png
 File Name: C:\Downloaded Web Sites\nakrutka-service.ru\wp-content\uploads\2025\02\Pasted-5-300x185.png
 Content Type: image/png
@@ -966,6 +1018,26 @@ Uri: https://nakrutka-service.ru/wp-json/
 File Name: C:\Downloaded Web Sites\nakrutka-service.ru\wp-json\index.htm
 Content Type: application/json
 
+Uri: https://nakrutka-service.ru/wp-json/wp/v2/pages/15060
+File Name: C:\Downloaded Web Sites\nakrutka-service.ru\wp-json\wp\v2\pages\15060
+Content Type: application/json
+
+Uri: https://nakrutka-service.ru/wp-json/wp/v2/pages/15062
+File Name: C:\Downloaded Web Sites\nakrutka-service.ru\wp-json\wp\v2\pages\15062
+Content Type: application/json
+
+Uri: https://nakrutka-service.ru/wp-json/wp/v2/pages/15065
+File Name: C:\Downloaded Web Sites\nakrutka-service.ru\wp-json\wp\v2\pages\15065
+Content Type: application/json
+
+Uri: https://nakrutka-service.ru/wp-json/wp/v2/pages/15067
+File Name: C:\Downloaded Web Sites\nakrutka-service.ru\wp-json\wp\v2\pages\15067
+Content Type: application/json
+
+Uri: https://nakrutka-service.ru/wp-json/wp/v2/pages/15069
+File Name: C:\Downloaded Web Sites\nakrutka-service.ru\wp-json\wp\v2\pages\15069
+Content Type: application/json
+
 Uri: https://nakrutka-service.ru/wp-json/wp/v2/pages/15446
 File Name: C:\Downloaded Web Sites\nakrutka-service.ru\wp-json\wp\v2\pages\15446
 Content Type: application/json
@@ -974,12 +1046,32 @@ Uri: https://nakrutka-service.ru/wp-json/wp/v2/pages/15453
 File Name: C:\Downloaded Web Sites\nakrutka-service.ru\wp-json\wp\v2\pages\15453
 Content Type: application/json
 
+Uri: https://nakrutka-service.ru/wp-json/wp/v2/pages/15498
+File Name: C:\Downloaded Web Sites\nakrutka-service.ru\wp-json\wp\v2\pages\15498
+Content Type: application/json
+
 Uri: https://nakrutka-service.ru/wp-json/wp/v2/pages/15505
 File Name: C:\Downloaded Web Sites\nakrutka-service.ru\wp-json\wp\v2\pages\15505
 Content Type: application/json
 
 Uri: https://nakrutka-service.ru/wp-json/wp/v2/pages/15550
 File Name: C:\Downloaded Web Sites\nakrutka-service.ru\wp-json\wp\v2\pages\15550
+Content Type: application/json
+
+Uri: https://nakrutka-service.ru/wp-json/wp/v2/pages/15558
+File Name: C:\Downloaded Web Sites\nakrutka-service.ru\wp-json\wp\v2\pages\15558
+Content Type: application/json
+
+Uri: https://nakrutka-service.ru/wp-json/wp/v2/pages/15563
+File Name: C:\Downloaded Web Sites\nakrutka-service.ru\wp-json\wp\v2\pages\15563
+Content Type: application/json
+
+Uri: https://nakrutka-service.ru/wp-json/wp/v2/pages/15570
+File Name: C:\Downloaded Web Sites\nakrutka-service.ru\wp-json\wp\v2\pages\15570
+Content Type: application/json
+
+Uri: https://nakrutka-service.ru/wp-json/wp/v2/pages/2
+File Name: C:\Downloaded Web Sites\nakrutka-service.ru\wp-json\wp\v2\pages\2
 Content Type: application/json
 
 Uri: https://fonts.googleapis.com/css?family=Montserrat:400%2C400i%2C700
@@ -1001,10 +1093,6 @@ Content Type: font/ttf
 Uri: https://mc.yandex.ru/watch/95670107
 File Name: C:\Downloaded Web Sites\nakrutka-service.ru\watch\95670107
 Content Type: image/gif
-
-Uri: https://pro-avtokredit.ru/wp-content/uploads/2023/09/bg1.png
-File Name: C:\Downloaded Web Sites\nakrutka-service.ru\wp-content\uploads\2023\09\bg1.png
-Content Type: image/png
 
 Uri: https://work-engels.ru/wp-content/uploads/2025/02/Pasted-1-600x281.png
 File Name: C:\Downloaded Web Sites\nakrutka-service.ru\wp-content\uploads\2025\02\Pasted-1-600x281.png
