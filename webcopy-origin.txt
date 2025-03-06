@@ -18,6 +18,14 @@ Uri: https://nakrutka-service.vercel.app/category/telegram/feed
 File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\category\telegram\feed
 Content Type: application/rss+xml
 
+Uri: https://nakrutka-service.vercel.app/category/twitch
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\category\twitch.html
+Content Type: text/html
+
+Uri: https://nakrutka-service.vercel.app/category/twitch/feed
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\category\twitch\feed
+Content Type: application/rss+xml
+
 Uri: https://nakrutka-service.vercel.app/instagram/comments
 File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\instagram\comments.html
 Content Type: text/html
@@ -74,36 +82,64 @@ Uri: https://nakrutka-service.vercel.app/soglasie-na-obrabotku-personalnyh-danny
 File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\soglasie-na-obrabotku-personalnyh-dannyh.html
 Content Type: text/html
 
-Uri: https://nakrutka-service.vercel.app/telegram/ftsvftsv
-File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\telegram\ftsvftsv.html
+Uri: https://nakrutka-service.vercel.app/telegram/bots
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\telegram\bots.html
 Content Type: text/html
 
-Uri: https://nakrutka-service.vercel.app/telegram/luchshie-servisy-po-nakrutke-botov-v-telegram
-File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\telegram\luchshie-servisy-po-nakrutke-botov-v-telegram.html
+Uri: https://nakrutka-service.vercel.app/telegram/commenty
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\telegram\commenty.html
 Content Type: text/html
 
-Uri: https://nakrutka-service.vercel.app/telegram/luchshie-servisy-po-nakrutke-golosov-v-oprose-v-telegram
-File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\telegram\luchshie-servisy-po-nakrutke-golosov-v-oprose-v-telegram.html
+Uri: https://nakrutka-service.vercel.app/telegram/golos
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\telegram\golos.html
 Content Type: text/html
 
-Uri: https://nakrutka-service.vercel.app/telegram/luchshie-servisy-po-nakrutke-kommentariev-v-telegram
-File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\telegram\luchshie-servisy-po-nakrutke-kommentariev-v-telegram.html
-Content Type: text/html
-
-Uri: https://nakrutka-service.vercel.app/telegram/luchshie-servisy-po-nakrutke-lajkov-v-telegram
-File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\telegram\luchshie-servisy-po-nakrutke-lajkov-v-telegram.html
-Content Type: text/html
-
-Uri: https://nakrutka-service.vercel.app/telegram/luchshie-servisy-po-nakrutke-prosmotrov-v-telegram
-File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\telegram\luchshie-servisy-po-nakrutke-prosmotrov-v-telegram.html
-Content Type: text/html
-
-Uri: https://nakrutka-service.vercel.app/telegram/luchshie-servisy-po-nakrutke-reaktsij-v-telegram
-File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\telegram\luchshie-servisy-po-nakrutke-reaktsij-v-telegram.html
+Uri: https://nakrutka-service.vercel.app/telegram/likes-2
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\telegram\likes-2.html
 Content Type: text/html
 
 Uri: https://nakrutka-service.vercel.app/telegram/podpischiki
 File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\telegram\podpischiki.html
+Content Type: text/html
+
+Uri: https://nakrutka-service.vercel.app/telegram/prosmotry-2
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\telegram\prosmotry-2.html
+Content Type: text/html
+
+Uri: https://nakrutka-service.vercel.app/telegram/reactions
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\telegram\reactions.html
+Content Type: text/html
+
+Uri: https://nakrutka-service.vercel.app/twitch/bally
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\twitch\bally.html
+Content Type: text/html
+
+Uri: https://nakrutka-service.vercel.app/twitch/chat
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\twitch\chat.html
+Content Type: text/html
+
+Uri: https://nakrutka-service.vercel.app/twitch/followers
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\twitch\followers.html
+Content Type: text/html
+
+Uri: https://nakrutka-service.vercel.app/twitch/luchshie-servisy-nakrutki-zritelej-v-tvich
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\twitch\luchshie-servisy-nakrutki-zritelej-v-tvich.html
+Content Type: text/html
+
+Uri: https://nakrutka-service.vercel.app/twitch/messages
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\twitch\messages.html
+Content Type: text/html
+
+Uri: https://nakrutka-service.vercel.app/twitch/podpischikii
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\twitch\podpischikii.html
+Content Type: text/html
+
+Uri: https://nakrutka-service.vercel.app/twitch/stream
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\twitch\stream.html
+Content Type: text/html
+
+Uri: https://nakrutka-service.vercel.app/twitch/views
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\twitch\views.html
 Content Type: text/html
 
 Uri: https://nakrutka-service.vercel.app/wp-content/cache/min/1/3e2e20dc4c7fde7b30d427df7e70bcfe.js
@@ -954,6 +990,90 @@ Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-45.pn
 File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-45.png
 Content Type: image/png
 
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-46-300x151.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-46-300x151.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-46-600x303.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-46-600x303.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-46-768x387.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-46-768x387.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-46-793x400.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-46-793x400.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-46.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-46.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-47-1536x792.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-47-1536x792.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-47-300x155.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-47-300x155.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-47-600x309.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-47-600x309.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-47-768x396.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-47-768x396.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-47-776x400.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-47-776x400.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-47.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-47.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-48-300x139.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-48-300x139.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-48-600x278.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-48-600x278.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-48-768x356.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-48-768x356.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-48-862x400.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-48-862x400.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-48.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-48.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-49-300x182.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-49-300x182.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-49-600x363.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-49-600x363.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-49-661x400.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-49-661x400.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-49-768x465.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-49-768x465.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-49.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-49.png
+Content Type: image/png
+
 Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-5-300x185.png
 File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-5-300x185.png
 Content Type: image/png
@@ -972,6 +1092,210 @@ Content Type: image/png
 
 Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-5.png
 File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-5.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-50-300x169.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-50-300x169.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-50-600x338.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-50-600x338.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-50-710x400.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-50-710x400.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-50-768x433.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-50-768x433.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-50.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-50.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-51-300x159.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-51-300x159.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-51-600x317.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-51-600x317.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-51-757x400.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-51-757x400.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-51-768x406.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-51-768x406.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-51.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-51.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-52-300x210.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-52-300x210.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-52-570x400.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-52-570x400.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-52-600x421.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-52-600x421.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-52-768x539.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-52-768x539.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-52.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-52.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-53-1536x800.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-53-1536x800.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-53-300x156.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-53-300x156.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-53-600x313.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-53-600x313.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-53-768x400.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-53-768x400.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-53.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-53.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-54-300x187.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-54-300x187.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-54-600x374.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-54-600x374.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-54-641x400.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-54-641x400.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-54-768x479.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-54-768x479.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-54.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-54.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-55-300x188.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-55-300x188.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-55-600x377.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-55-600x377.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-55-637x400.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-55-637x400.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-55-768x483.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-55-768x483.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-55.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-55.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-56-300x182.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-56-300x182.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-56-600x363.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-56-600x363.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-56-660x400.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-56-660x400.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-56-768x465.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-56-768x465.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-56.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-56.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-57-300x198.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-57-300x198.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-57-335x220.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-57-335x220.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-57-600x396.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-57-600x396.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-57-606x400.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-57-606x400.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-57-768x507.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-57-768x507.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-57.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-57.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-58-300x161.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-58-300x161.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-58-600x321.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-58-600x321.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-58-747x400.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-58-747x400.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-58-768x411.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-58-768x411.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-58.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-58.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-59-300x175.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-59-300x175.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-59-600x350.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-59-600x350.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-59-686x400.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-59-686x400.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-59-768x448.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-59-768x448.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-59.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-59.png
 Content Type: image/png
 
 Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-6-1536x714.png
@@ -998,6 +1322,218 @@ Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-6.png
 File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-6.png
 Content Type: image/png
 
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-60-300x200.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-60-300x200.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-60-599x400.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-60-599x400.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-60-600x401.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-60-600x401.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-60-768x513.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-60-768x513.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-60.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-60.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-61-1536x735.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-61-1536x735.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-61-300x144.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-61-300x144.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-61-600x287.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-61-600x287.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-61-768x368.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-61-768x368.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-61-836x400.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-61-836x400.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-61.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-61.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-62-300x166.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-62-300x166.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-62-600x332.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-62-600x332.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-62-723x400.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-62-723x400.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-62-768x425.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-62-768x425.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-62.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-62.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-63-300x176.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-63-300x176.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-63-600x352.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-63-600x352.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-63-682x400.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-63-682x400.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-63-768x450.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-63-768x450.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-63.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-63.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-64-300x184.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-64-300x184.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-64-600x369.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-64-600x369.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-64-651x400.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-64-651x400.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-64-768x472.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-64-768x472.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-64.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-64.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-65-1536x739.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-65-1536x739.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-65-300x144.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-65-300x144.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-65-600x289.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-65-600x289.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-65-768x370.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-65-768x370.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-65-831x400.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-65-831x400.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-65.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-65.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-66-300x203.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-66-300x203.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-66-592x400.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-66-592x400.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-66-600x405.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-66-600x405.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-66-768x519.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-66-768x519.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-66.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-66.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-67-300x160.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-67-300x160.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-67-600x320.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-67-600x320.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-67-749x400.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-67-749x400.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-67-768x410.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-67-768x410.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-67.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-67.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-68-300x186.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-68-300x186.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-68-600x373.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-68-600x373.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-68-644x400.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-68-644x400.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-68-768x477.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-68-768x477.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-68.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-68.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-69-1536x792.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-69-1536x792.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-69-300x155.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-69-300x155.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-69-600x309.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-69-600x309.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-69-768x396.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-69-768x396.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-69-776x400.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-69-776x400.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-69.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-69.png
+Content Type: image/png
+
 Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-7-300x171.png
 File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-7-300x171.png
 Content Type: image/png
@@ -1016,6 +1552,214 @@ Content Type: image/png
 
 Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-7.png
 File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-7.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-70-300x174.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-70-300x174.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-70-600x348.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-70-600x348.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-70-690x400.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-70-690x400.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-70-768x445.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-70-768x445.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-70.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-70.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-71-300x175.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-71-300x175.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-71-600x351.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-71-600x351.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-71-684x400.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-71-684x400.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-71-768x449.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-71-768x449.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-71.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-71.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-72-300x162.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-72-300x162.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-72-600x324.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-72-600x324.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-72-742x400.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-72-742x400.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-72-768x414.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-72-768x414.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-72.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-72.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-73-300x155.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-73-300x155.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-73-600x310.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-73-600x310.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-73-768x397.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-73-768x397.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-73-775x400.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-73-775x400.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-73.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-73.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-74-300x189.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-74-300x189.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-74-600x378.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-74-600x378.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-74-635x400.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-74-635x400.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-74-768x484.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-74-768x484.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-74.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-74.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-75-300x175.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-75-300x175.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-75-600x350.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-75-600x350.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-75-686x400.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-75-686x400.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-75-768x448.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-75-768x448.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-75.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-75.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-76-1536x871.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-76-1536x871.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-76-300x170.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-76-300x170.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-76-600x340.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-76-600x340.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-76-706x400.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-76-706x400.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-76-768x435.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-76-768x435.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-76.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-76.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-77-1536x814.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-77-1536x814.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-77-300x159.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-77-300x159.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-77-600x318.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-77-600x318.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-77-755x400.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-77-755x400.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-77-768x407.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-77-768x407.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-77.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-77.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-78-300x165.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-78-300x165.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-78-600x329.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-78-600x329.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-78-729x400.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-78-729x400.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-78-768x421.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-78-768x421.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-78.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-78.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-79-300x205.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-79-300x205.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-79-586x400.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-79-586x400.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-79-600x410.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-79-600x410.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-79-768x524.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-79-768x524.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-79.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-79.png
 Content Type: image/png
 
 Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-8-1536x717.png
@@ -1042,6 +1786,214 @@ Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-8.png
 File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-8.png
 Content Type: image/png
 
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-80-300x166.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-80-300x166.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-80-600x333.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-80-600x333.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-80-721x400.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-80-721x400.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-80-768x426.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-80-768x426.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-80.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-80.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-81-300x175.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-81-300x175.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-81-600x351.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-81-600x351.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-81-684x400.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-81-684x400.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-81-768x449.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-81-768x449.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-81.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-81.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-82-1536x780.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-82-1536x780.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-82-300x152.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-82-300x152.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-82-600x305.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-82-600x305.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-82-768x390.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-82-768x390.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-82-788x400.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-82-788x400.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-82.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-82.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-83-300x189.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-83-300x189.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-83-600x377.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-83-600x377.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-83-636x400.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-83-636x400.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-83-768x483.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-83-768x483.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-83.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-83.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-84-300x192.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-84-300x192.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-84-600x384.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-84-600x384.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-84-625x400.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-84-625x400.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-84-768x491.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-84-768x491.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-84.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-84.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-85-1536x787.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-85-1536x787.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-85-300x154.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-85-300x154.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-85-600x308.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-85-600x308.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-85-768x394.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-85-768x394.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-85-780x400.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-85-780x400.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-85.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-85.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-86-300x183.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-86-300x183.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-86-600x366.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-86-600x366.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-86-656x400.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-86-656x400.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-86-768x469.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-86-768x469.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-86.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-86.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-87-300x170.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-87-300x170.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-87-600x340.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-87-600x340.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-87-707x400.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-87-707x400.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-87-768x435.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-87-768x435.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-87.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-87.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-88-300x184.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-88-300x184.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-88-600x368.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-88-600x368.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-88-652x400.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-88-652x400.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-88-768x471.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-88-768x471.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-88.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-88.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-89-300x169.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-89-300x169.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-89-600x338.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-89-600x338.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-89-711x400.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-89-711x400.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-89-768x432.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-89-768x432.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-89.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-89.png
+Content Type: image/png
+
 Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-9-300x161.png
 File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-9-300x161.png
 Content Type: image/png
@@ -1062,6 +2014,302 @@ Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-9.png
 File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-9.png
 Content Type: image/png
 
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-90-300x153.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-90-300x153.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-90-600x305.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-90-600x305.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-90-768x391.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-90-768x391.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-90-786x400.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-90-786x400.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-90.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-90.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-91-300x155.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-91-300x155.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-91-600x310.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-91-600x310.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-91-768x397.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-91-768x397.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-91-774x400.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-91-774x400.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-91.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-91.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-92-1536x749.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-92-1536x749.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-92-300x146.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-92-300x146.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-92-600x293.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-92-600x293.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-92-768x375.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-92-768x375.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-92-820x400.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-92-820x400.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/02/Pasted-92.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\02\Pasted-92.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/03/luchshie-servisy-nakrutki-folloverov-v-tvich-335x220.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\03\luchshie-servisy-nakrutki-folloverov-v-tvich-335x220.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/03/luchshie-servisy-nakrutki-folloverov-v-tvich-832x400.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\03\luchshie-servisy-nakrutki-folloverov-v-tvich-832x400.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/03/luchshie-servisy-nakrutki-folloverov-v-tvich.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\03\luchshie-servisy-nakrutki-folloverov-v-tvich.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/03/luchshie-servisy-nakrutki-golosov-v-oprose-v-instagram-335x220.jpg
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\03\luchshie-servisy-nakrutki-golosov-v-oprose-v-instagram-335x220.jpg
+Content Type: image/jpeg
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/03/luchshie-servisy-nakrutki-golosov-v-oprose-v-instagram-870x400.jpg
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\03\luchshie-servisy-nakrutki-golosov-v-oprose-v-instagram-870x400.jpg
+Content Type: image/jpeg
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/03/luchshie-servisy-nakrutki-golosov-v-oprose-v-instagram.jpg
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\03\luchshie-servisy-nakrutki-golosov-v-oprose-v-instagram.jpg
+Content Type: image/jpeg
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/03/luchshie-servisy-nakrutki-istorij-v-instagram-335x220.jpg
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\03\luchshie-servisy-nakrutki-istorij-v-instagram-335x220.jpg
+Content Type: image/jpeg
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/03/luchshie-servisy-nakrutki-istorij-v-instagram-870x400.jpg
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\03\luchshie-servisy-nakrutki-istorij-v-instagram-870x400.jpg
+Content Type: image/jpeg
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/03/luchshie-servisy-nakrutki-istorij-v-instagram.jpg
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\03\luchshie-servisy-nakrutki-istorij-v-instagram.jpg
+Content Type: image/jpeg
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/03/luchshie-servisy-nakrutki-kommentariev-v-instagram-335x220.jpg
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\03\luchshie-servisy-nakrutki-kommentariev-v-instagram-335x220.jpg
+Content Type: image/jpeg
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/03/luchshie-servisy-nakrutki-kommentariev-v-instagram-870x400.jpg
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\03\luchshie-servisy-nakrutki-kommentariev-v-instagram-870x400.jpg
+Content Type: image/jpeg
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/03/luchshie-servisy-nakrutki-kommentariev-v-instagram.jpg
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\03\luchshie-servisy-nakrutki-kommentariev-v-instagram.jpg
+Content Type: image/jpeg
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/03/luchshie-servisy-nakrutki-lajkov-v-instagram-300x139.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\03\luchshie-servisy-nakrutki-lajkov-v-instagram-300x139.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/03/luchshie-servisy-nakrutki-lajkov-v-instagram-335x220.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\03\luchshie-servisy-nakrutki-lajkov-v-instagram-335x220.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/03/luchshie-servisy-nakrutki-lajkov-v-instagram-870x400.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\03\luchshie-servisy-nakrutki-lajkov-v-instagram-870x400.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/03/luchshie-servisy-nakrutki-lajkov-v-instagram.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\03\luchshie-servisy-nakrutki-lajkov-v-instagram.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/03/luchshie-servisy-nakrutki-podpischikov-v-instagram-335x220.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\03\luchshie-servisy-nakrutki-podpischikov-v-instagram-335x220.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/03/luchshie-servisy-nakrutki-podpischikov-v-instagram-870x400.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\03\luchshie-servisy-nakrutki-podpischikov-v-instagram-870x400.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/03/luchshie-servisy-nakrutki-podpischikov-v-instagram.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\03\luchshie-servisy-nakrutki-podpischikov-v-instagram.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/03/luchshie-servisy-nakrutki-podpischikov-v-telegram-832x400.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\03\luchshie-servisy-nakrutki-podpischikov-v-telegram-832x400.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/03/luchshie-servisy-nakrutki-podpischikov-v-telegram.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\03\luchshie-servisy-nakrutki-podpischikov-v-telegram.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/03/luchshie-servisy-nakrutki-podpischikov-v-tvich-870x400.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\03\luchshie-servisy-nakrutki-podpischikov-v-tvich-870x400.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/03/luchshie-servisy-nakrutki-podpischikov-v-tvich.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\03\luchshie-servisy-nakrutki-podpischikov-v-tvich.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/03/luchshie-servisy-nakrutki-prosmotrov-rils-v-instagram-335x220.jpg
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\03\luchshie-servisy-nakrutki-prosmotrov-rils-v-instagram-335x220.jpg
+Content Type: image/jpeg
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/03/luchshie-servisy-nakrutki-prosmotrov-rils-v-instagram-870x400.jpg
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\03\luchshie-servisy-nakrutki-prosmotrov-rils-v-instagram-870x400.jpg
+Content Type: image/jpeg
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/03/luchshie-servisy-nakrutki-prosmotrov-rils-v-instagram.jpg
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\03\luchshie-servisy-nakrutki-prosmotrov-rils-v-instagram.jpg
+Content Type: image/jpeg
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/03/luchshie-servisy-nakrutki-prosmotrov-v-instagram-335x220.jpg
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\03\luchshie-servisy-nakrutki-prosmotrov-v-instagram-335x220.jpg
+Content Type: image/jpeg
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/03/luchshie-servisy-nakrutki-prosmotrov-v-instagram-870x400.jpg
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\03\luchshie-servisy-nakrutki-prosmotrov-v-instagram-870x400.jpg
+Content Type: image/jpeg
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/03/luchshie-servisy-nakrutki-prosmotrov-v-instagram.jpg
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\03\luchshie-servisy-nakrutki-prosmotrov-v-instagram.jpg
+Content Type: image/jpeg
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/03/luchshie-servisy-nakrutki-prosmotrov-video-v-instagram-335x220.jpg
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\03\luchshie-servisy-nakrutki-prosmotrov-video-v-instagram-335x220.jpg
+Content Type: image/jpeg
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/03/luchshie-servisy-nakrutki-prosmotrov-video-v-instagram-870x400.jpg
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\03\luchshie-servisy-nakrutki-prosmotrov-video-v-instagram-870x400.jpg
+Content Type: image/jpeg
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/03/luchshie-servisy-nakrutki-prosmotrov-video-v-instagram.jpg
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\03\luchshie-servisy-nakrutki-prosmotrov-video-v-instagram.jpg
+Content Type: image/jpeg
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/03/luchshie-servisy-nakrutki-zritelej-v-tvich-300x138.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\03\luchshie-servisy-nakrutki-zritelej-v-tvich-300x138.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/03/luchshie-servisy-nakrutki-zritelej-v-tvich-600x276.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\03\luchshie-servisy-nakrutki-zritelej-v-tvich-600x276.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/03/luchshie-servisy-nakrutki-zritelej-v-tvich-768x353.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\03\luchshie-servisy-nakrutki-zritelej-v-tvich-768x353.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/03/luchshie-servisy-nakrutki-zritelej-v-tvich-870x400.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\03\luchshie-servisy-nakrutki-zritelej-v-tvich-870x400.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/03/luchshie-servisy-nakrutki-zritelej-v-tvich.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\03\luchshie-servisy-nakrutki-zritelej-v-tvich.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/03/luchshie-servisy-po-nakrutke-botov-v-telegram-335x220.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\03\luchshie-servisy-po-nakrutke-botov-v-telegram-335x220.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/03/luchshie-servisy-po-nakrutke-botov-v-telegram-832x400.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\03\luchshie-servisy-po-nakrutke-botov-v-telegram-832x400.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/03/luchshie-servisy-po-nakrutke-botov-v-telegram.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\03\luchshie-servisy-po-nakrutke-botov-v-telegram.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/03/luchshie-servisy-po-nakrutke-golosov-v-oprose-v-telegram-300x140.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\03\luchshie-servisy-po-nakrutke-golosov-v-oprose-v-telegram-300x140.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/03/luchshie-servisy-po-nakrutke-golosov-v-oprose-v-telegram-335x220.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\03\luchshie-servisy-po-nakrutke-golosov-v-oprose-v-telegram-335x220.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/03/luchshie-servisy-po-nakrutke-golosov-v-oprose-v-telegram-600x279.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\03\luchshie-servisy-po-nakrutke-golosov-v-oprose-v-telegram-600x279.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/03/luchshie-servisy-po-nakrutke-golosov-v-oprose-v-telegram-768x357.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\03\luchshie-servisy-po-nakrutke-golosov-v-oprose-v-telegram-768x357.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/03/luchshie-servisy-po-nakrutke-golosov-v-oprose-v-telegram.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\03\luchshie-servisy-po-nakrutke-golosov-v-oprose-v-telegram.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/03/luchshie-servisy-po-nakrutke-kommentariev-v-telegram-335x220.jpg
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\03\luchshie-servisy-po-nakrutke-kommentariev-v-telegram-335x220.jpg
+Content Type: image/jpeg
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/03/luchshie-servisy-po-nakrutke-kommentariev-v-telegram-870x400.jpg
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\03\luchshie-servisy-po-nakrutke-kommentariev-v-telegram-870x400.jpg
+Content Type: image/jpeg
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/03/luchshie-servisy-po-nakrutke-kommentariev-v-telegram.jpg
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\03\luchshie-servisy-po-nakrutke-kommentariev-v-telegram.jpg
+Content Type: image/jpeg
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/03/luchshie-servisy-po-nakrutke-lajkov-v-telegram-300x140.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\03\luchshie-servisy-po-nakrutke-lajkov-v-telegram-300x140.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/03/luchshie-servisy-po-nakrutke-lajkov-v-telegram-335x220.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\03\luchshie-servisy-po-nakrutke-lajkov-v-telegram-335x220.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/03/luchshie-servisy-po-nakrutke-lajkov-v-telegram-600x279.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\03\luchshie-servisy-po-nakrutke-lajkov-v-telegram-600x279.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/03/luchshie-servisy-po-nakrutke-lajkov-v-telegram-768x357.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\03\luchshie-servisy-po-nakrutke-lajkov-v-telegram-768x357.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/03/luchshie-servisy-po-nakrutke-lajkov-v-telegram.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\03\luchshie-servisy-po-nakrutke-lajkov-v-telegram.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/03/luchshie-servisy-po-nakrutke-prosmotrov-v-telegram-335x220.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\03\luchshie-servisy-po-nakrutke-prosmotrov-v-telegram-335x220.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/03/luchshie-servisy-po-nakrutke-prosmotrov-v-telegram-832x400.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\03\luchshie-servisy-po-nakrutke-prosmotrov-v-telegram-832x400.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/03/luchshie-servisy-po-nakrutke-prosmotrov-v-telegram.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\03\luchshie-servisy-po-nakrutke-prosmotrov-v-telegram.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/03/luchshie-servisy-po-nakrutke-reaktsij-v-telegram-870x400.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\03\luchshie-servisy-po-nakrutke-reaktsij-v-telegram-870x400.png
+Content Type: image/png
+
+Uri: https://nakrutka-service.vercel.app/wp-content/uploads/2025/03/luchshie-servisy-po-nakrutke-reaktsij-v-telegram.png
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-content\uploads\2025\03\luchshie-servisy-po-nakrutke-reaktsij-v-telegram.png
+Content Type: image/png
+
 Uri: https://nakrutka-service.vercel.app/wp-json/
 File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-json\index.htm
 Content Type: application/json
@@ -1072,6 +2320,10 @@ Content Type: application/json
 
 Uri: https://nakrutka-service.vercel.app/wp-json/wp/v2/categories/45
 File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-json\wp\v2\categories\45
+Content Type: application/json
+
+Uri: https://nakrutka-service.vercel.app/wp-json/wp/v2/categories/46
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-json\wp\v2\categories\46
 Content Type: application/json
 
 Uri: https://nakrutka-service.vercel.app/wp-json/wp/v2/pages/15060
@@ -1100,10 +2352,6 @@ Content Type: application/json
 
 Uri: https://nakrutka-service.vercel.app/wp-json/wp/v2/pages/2
 File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-json\wp\v2\pages\2
-Content Type: application/json
-
-Uri: https://nakrutka-service.vercel.app/wp-json/wp/v2/posts/15597
-File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-json\wp\v2\posts\15597
 Content Type: application/json
 
 Uri: https://nakrutka-service.vercel.app/wp-json/wp/v2/posts/15599
@@ -1164,6 +2412,38 @@ Content Type: application/json
 
 Uri: https://nakrutka-service.vercel.app/wp-json/wp/v2/posts/15642
 File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-json\wp\v2\posts\15642
+Content Type: application/json
+
+Uri: https://nakrutka-service.vercel.app/wp-json/wp/v2/posts/15665
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-json\wp\v2\posts\15665
+Content Type: application/json
+
+Uri: https://nakrutka-service.vercel.app/wp-json/wp/v2/posts/15667
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-json\wp\v2\posts\15667
+Content Type: application/json
+
+Uri: https://nakrutka-service.vercel.app/wp-json/wp/v2/posts/15670
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-json\wp\v2\posts\15670
+Content Type: application/json
+
+Uri: https://nakrutka-service.vercel.app/wp-json/wp/v2/posts/15700
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-json\wp\v2\posts\15700
+Content Type: application/json
+
+Uri: https://nakrutka-service.vercel.app/wp-json/wp/v2/posts/15703
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-json\wp\v2\posts\15703
+Content Type: application/json
+
+Uri: https://nakrutka-service.vercel.app/wp-json/wp/v2/posts/15706
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-json\wp\v2\posts\15706
+Content Type: application/json
+
+Uri: https://nakrutka-service.vercel.app/wp-json/wp/v2/posts/15708
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-json\wp\v2\posts\15708
+Content Type: application/json
+
+Uri: https://nakrutka-service.vercel.app/wp-json/wp/v2/posts/15710
+File Name: C:\Downloaded Web Sites\nakrutka-service.vercel.app\wp-json\wp\v2\posts\15710
 Content Type: application/json
 
 Uri: https://fonts.googleapis.com/css?family=Montserrat:400%2C400i%2C700
